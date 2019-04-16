@@ -1,4 +1,4 @@
-<body>
+
 <% if user_signed_in? %>
 	<div class="col-md-6 col-md-offset-3">
 		<% @items.each do |item| %>
@@ -47,4 +47,3 @@
 <% else %>
 	<%= render 'static_landing_page' %>
 <% end %>
-</body>

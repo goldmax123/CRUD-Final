@@ -27,10 +27,6 @@
 
  /* Universal styles */
 
- body {
- 	font-family: 'Merriweather', serif;
- }
-
  a {
  	color: darken(#e7e7e7, 70%);
  }
@@ -97,4 +93,5 @@
    background:         linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
    background-repeat: no-repeat;
    height: auto;
+   font-family: 'Georgia', serif;
  }
