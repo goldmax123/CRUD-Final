@@ -1,28 +1,44 @@
 == README
+*You create two objects.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  You can create a Checklist for a user and then add multiple items specific to that user.
 
-Things you may want to cover:
+*Each object has at least 3 variables with some different types.
 
-* Ruby version
+  Yes
 
-* System dependencies
+*The objects have a belongs_to and has_many_relationship.
 
-* Configuration
+  The user Checklist and items have this relationship
 
-* Database creation
+*You can CRUD each object.
 
-* Database initialization
+  Yes
 
-* How to run the test suite
+*Your project is on github.
 
-* Services (job queues, cache servers, search engines, etc.)
+  Yes
 
-* Deployment instructions
+*Change the default homepage.
 
-* ...
+  Yes
 
+*Include Bootstrap.
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+  Yes for part of my style.
+
+*Include strong validations and write tests.
+
+  Yes in the test folder.
+
+*Clear and accurate Readme.
+
+  This is it!!
+
+*Include a new gem with added functionality.
+
+  I have added devise to allow the users to log in.
+
+*Clever design of HTML/CSS
+
+  I have added a new layout and color to give the site a more appealing look in my application.css.scss file.
